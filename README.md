@@ -1,15 +1,15 @@
 # ¡Hola! Soy Tamara Argañaraz 👋
  
- **En búsqueda de mi primera oportunidad laboral:** Estoy motivada por sumarme a un equipo donde pueda aprender, aportar mis conocimientos y crecer profesionalmente y con apertura a adquirir las habilidades y teconologías que requiera el equipo.
+ **En búsqueda de mi primera oportunidad laboral:** Estoy motivada por sumarme a un equipo donde pueda aprender, aportar mis conocimientos y crecer profesionalmente. Con apertura a adquirir las habilidades y teconologías que requiera el equipo.
  
 📈 Me encanta desarrollar proyectos prácticos para llevar la teoría a la realidad y seguir expandiendo mis habilidades día a día.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Python, Java, Haskell
-- **Análisis de Datos:** DuckDB, Seaborn, Pandas
-- **Otras herramientas:** Git, GitHub, LaTeX
+- **Lenguajes:** Python, SQL, Haskell
+- **Análisis y Manipulación de Datos:** Pandas, NumPy, DuckDB, SQL (consultas relacionales complejas y agregaciones)
+- **Otras herramientas:** Git, GitHub, Visual Studio Code, Excel, LaTeX
 
 ---
 
