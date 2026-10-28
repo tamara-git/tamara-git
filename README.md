@@ -1,3 +1,5 @@
+# ¡Hola! Soy Tamara Argañaraz 👋
+ 
  **En búsqueda de mi primera oportunidad laboral:** Estoy motivada por sumarme a un equipo donde pueda aprender, aportar mis conocimientos y crecer profesionalmente y con apertura a adquirir las habilidades y teconologías que requiera el equipo.
  
 📈 Me encanta desarrollar proyectos prácticos para llevar la teoría a la realidad y seguir expandiendo mis habilidades día a día.
